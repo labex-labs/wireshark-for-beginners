@@ -6,7 +6,7 @@
 
 In this course, you will learn how to use Wireshark to capture and analyze network traffic. You will learn how to install Wireshark, capture packets, and analyze them. You will also learn how to use Wireshark to troubleshoot network issues, analyze network traffic, and secure your network.
 
-![Cyber-Security](https://img.shields.io/badge/Cyber-Security-whitesmoke?style=for-the-badge&logo=cyber-security)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
 
 
 ## Environment
@@ -25,22 +25,22 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                  |
-|---------|---------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Wireshark Enchantment Quest               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-wireshark-enchantment-quest-288913'>Start Lab</a>               |
-|      02 | 📖 Cyber Interface Exploration Experience    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-interface-exploration-experience-288914'>Start Lab</a>    |
-|      03 | 📖 Cyber Packet Hunt Capture Experience      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-packet-hunt-capture-experience-288918'>Start Lab</a>      |
-|      04 | 📖 Cyber Sleuthing with WiresharkFilters     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-sleuthing-with-wiresharkfilters-288909'>Start Lab</a>     |
-|      05 | 📖 Cyber Filter Mastery Quest                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-filter-mastery-quest-288905'>Start Lab</a>                |
-|      06 | 📖 Wireshark Color Mastery                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-wireshark-color-mastery-288906'>Start Lab</a>                   |
-|      07 | 📖 TCP Stream Detective Cyber Chronicles     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-tcp-stream-detective-cyber-chronicles-288912'>Start Lab</a>     |
-|      08 | 📖 Wireshark Packet Export Mastery           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-wireshark-packet-export-mastery-288910'>Start Lab</a>           |
-|      09 | 📖 Cyber IPv6 Network Monitoring Essentials  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-ipv6-network-monitoring-essentials-288915'>Start Lab</a>  |
-|      10 | 📖 Cyber Command Analysis Insights Efficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cysec-cyber-command-analysis-insights-efficient-288907'>Start Lab</a> |
+|   Index | Name                                        | Difficulty   | Practice                                                                                                                          |
+|---------|---------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Wireshark Enchantment Quest               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-enchantment-quest-415947'>Start Lab</a>               |
+|      02 | 📖 Cyber Interface Exploration Experience    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-interface-exploration-experience-415949'>Start Lab</a>    |
+|      03 | 📖 Cyber Packet Hunt Capture Experience      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-packet-hunt-capture-experience-415956'>Start Lab</a>      |
+|      04 | 📖 Cyber Sleuthing with WiresharkFilters     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-sleuthing-with-wiresharkfilters-415944'>Start Lab</a>     |
+|      05 | 📖 Cyber Filter Mastery Quest                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-filter-mastery-quest-415940'>Start Lab</a>                |
+|      06 | 📖 Wireshark Color Mastery                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-color-mastery-415941'>Start Lab</a>                   |
+|      07 | 📖 TCP Stream Detective Cyber Chronicles     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-tcp-stream-detective-cyber-chronicles-415946'>Start Lab</a>     |
+|      08 | 📖 Wireshark Packet Export Mastery           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-packet-export-mastery-415945'>Start Lab</a>           |
+|      09 | 📖 Cyber IPv6 Network Monitoring Essentials  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-ipv6-network-monitoring-essentials-415950'>Start Lab</a>  |
+|      10 | 📖 Cyber Command Analysis Insights Efficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-command-analysis-insights-efficient-415942'>Start Lab</a> |
 
 ## More
 
-- 🔗 [Cyber Security Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cyber Security Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cyber Security Free Tutorials](https://github.com/labex-labs/cysec-free-tutorials)
+- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
