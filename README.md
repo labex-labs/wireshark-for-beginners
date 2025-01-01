@@ -27,16 +27,15 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 |   Index | Name                                        | Difficulty   | Practice                                                                                                                          |
 |---------|---------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Wireshark Enchantment Quest               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-enchantment-quest-415947'>Start Lab</a>               |
-|      02 | 📖 Cyber Interface Exploration Experience    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-interface-exploration-experience-415949'>Start Lab</a>    |
-|      03 | 📖 Cyber Packet Hunt Capture Experience      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-packet-hunt-capture-experience-415956'>Start Lab</a>      |
-|      04 | 📖 Cyber Sleuthing with WiresharkFilters     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-sleuthing-with-wiresharkfilters-415944'>Start Lab</a>     |
-|      05 | 📖 Cyber Filter Mastery Quest                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-filter-mastery-quest-415940'>Start Lab</a>                |
-|      06 | 📖 Wireshark Color Mastery                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-color-mastery-415941'>Start Lab</a>                   |
-|      07 | 📖 TCP Stream Detective Cyber Chronicles     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-tcp-stream-detective-cyber-chronicles-415946'>Start Lab</a>     |
-|      08 | 📖 Wireshark Packet Export Mastery           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-packet-export-mastery-415945'>Start Lab</a>           |
-|      09 | 📖 Cyber IPv6 Network Monitoring Essentials  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-ipv6-network-monitoring-essentials-415950'>Start Lab</a>  |
-|      10 | 📖 Cyber Command Analysis Insights Efficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-command-analysis-insights-efficient-415942'>Start Lab</a> |
+|       1 | 📖 Wireshark Enchantment Quest               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-enchantment-quest-415947'>Start Lab</a>               |
+|       2 | 📖 Cyber Interface Exploration Experience    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-interface-exploration-experience-415949'>Start Lab</a>    |
+|       3 | 📖 Cyber Sleuthing with WiresharkFilters     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-sleuthing-with-wiresharkfilters-415944'>Start Lab</a>     |
+|       4 | 📖 Cyber Filter Mastery Quest                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-filter-mastery-quest-415940'>Start Lab</a>                |
+|       5 | 📖 Wireshark Color Mastery                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-color-mastery-415941'>Start Lab</a>                   |
+|       6 | 📖 TCP Stream Detective Cyber Chronicles     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-tcp-stream-detective-cyber-chronicles-415946'>Start Lab</a>     |
+|       7 | 📖 Wireshark Packet Export Mastery           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-packet-export-mastery-415945'>Start Lab</a>           |
+|       8 | 📖 Cyber IPv6 Network Monitoring Essentials  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-ipv6-network-monitoring-essentials-415950'>Start Lab</a>  |
+|       9 | 📖 Cyber Command Analysis Insights Efficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-command-analysis-insights-efficient-415942'>Start Lab</a> |
 
 ## More
 
