@@ -1,6 +1,6 @@
 # Quick Start with Wireshark
 
-[![Quick Start with Wireshark](https://cover-creator.appbot.io/quick-start-with-wireshark.png)](https://labex.io/courses/quick-start-with-wireshark)
+[![Quick Start with Wireshark](https://cover-creator.labex.io/quick-start-with-wireshark.png)](https://labex.io/courses/quick-start-with-wireshark)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-wireshark)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,17 +25,28 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                        | Difficulty   | Practice                                                                                                                          |
-|---------|---------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------|
-|       1 | 📖 Wireshark Enchantment Quest               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-enchantment-quest-415947'>Start Lab</a>               |
-|       2 | 📖 Cyber Interface Exploration Experience    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-interface-exploration-experience-415949'>Start Lab</a>    |
-|       3 | 📖 Cyber Sleuthing with WiresharkFilters     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-sleuthing-with-wiresharkfilters-415944'>Start Lab</a>     |
-|       4 | 📖 Cyber Filter Mastery Quest                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-filter-mastery-quest-415940'>Start Lab</a>                |
-|       5 | 📖 Wireshark Color Mastery                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-color-mastery-415941'>Start Lab</a>                   |
-|       6 | 📖 TCP Stream Detective Cyber Chronicles     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-tcp-stream-detective-cyber-chronicles-415946'>Start Lab</a>     |
-|       7 | 📖 Wireshark Packet Export Mastery           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-wireshark-packet-export-mastery-415945'>Start Lab</a>           |
-|       8 | 📖 Cyber IPv6 Network Monitoring Essentials  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-ipv6-network-monitoring-essentials-415950'>Start Lab</a>  |
-|       9 | 📖 Cyber Command Analysis Insights Efficient | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/cybersecurity-cyber-command-analysis-insights-efficient-415942'>Start Lab</a> |
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                         |
+|---------|----------------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Install Configure and Analyze Network Traffic with... | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947'>Start Lab</a> |
+|      02 | 🎯 Verify Wireshark Installation                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-verify-wireshark-installation-548783'>Start Challenge</a>                          |
+|      03 | 📖 Explore and Customize Wireshark Interface             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-explore-and-customize-wireshark-interface-415949'>Start Lab</a>                    |
+|      04 | 🎯 Customize Wireshark Column Display                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-customize-wireshark-column-display-548785'>Start Challenge</a>                     |
+|      05 | 📖 Capture and Analyze Network Traffic with Wireshark    | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956'>Start Lab</a>           |
+|      06 | 🎯 Filter Encrypted Web Traffic                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-filter-encrypted-web-traffic-548806'>Start Challenge</a>                           |
+|      07 | 📖 Analyze Network Traffic with Wireshark Display Fil... | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-analyze-network-traffic-with-wireshark-display-filters-415944'>Start Lab</a>       |
+|      08 | 🎯 Find Exposed Login Credentials                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-find-exposed-login-credentials-548820'>Start Challenge</a>                         |
+|      09 | 📖 Apply Wireshark Capture Filters for Network Traffi... | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940'>Start Lab</a> |
+|      10 | 🎯 Filter DNS Communications                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-filter-dns-communications-548826'>Start Challenge</a>                              |
+|      11 | 📖 Create and Apply Colorizing Rules in Wireshark        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941'>Start Lab</a>               |
+|      12 | 🎯 Create HTTPS Traffic Detector                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-create-https-traffic-detector-548831'>Start Challenge</a>                          |
+|      13 | 📖 Analyze TCP Traffic with Wireshark Follow TCP Stre... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-415946'>Start Lab</a> |
+|      14 | 🎯 Extract Web Traffic Evidence                          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-extract-web-traffic-evidence-548842'>Start Challenge</a>                           |
+|      15 | 📖 Export Packets from Wireshark                         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-export-packets-from-wireshark-415945'>Start Lab</a>                                |
+|      16 | 🎯 Export Suspicious Network Evidence                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-export-suspicious-network-evidence-548847'>Start Challenge</a>                     |
+|      17 | 📖 Analyze IPv6 Traffic with Wireshark                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-analyze-ipv6-traffic-with-wireshark-415950'>Start Lab</a>                          |
+|      18 | 🎯 Track IPv6 Traffic Patterns                           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-track-ipv6-traffic-patterns-548851'>Start Challenge</a>                            |
+|      19 | 📖 Use Tshark for Network Traffic Analysis               | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942'>Start Lab</a>                      |
+|      20 | 🎯 Uncover Suspicious DNS Queries                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/wireshark-uncover-suspicious-dns-queries-548854'>Start Challenge</a>                         |
 
 ## More
 
