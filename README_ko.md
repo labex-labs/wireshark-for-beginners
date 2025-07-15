@@ -13,6 +13,31 @@
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
 
 
+## 연습
+
+|   인덱스 | 이름                                                          | 난이도   | 연습                                                                                                                                                |
+|----------|---------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🟢 Wireshark 로 네트워크 트래픽 설치, 구성 및 분석         | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947'>실습 시작</a> |
+|       02 | 🎯 🟢 Wireshark 설치 확인                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-verify-wireshark-installation-548783'>도전 시작</a>                                |
+|       03 | 📖 🟢 Wireshark 인터페이스 탐색 및 사용자 정의                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-explore-and-customize-wireshark-interface-415949'>실습 시작</a>                    |
+|       04 | 🎯 🟢 Wireshark 열 표시 사용자 정의                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-customize-wireshark-column-display-548785'>도전 시작</a>                           |
+|       05 | 📖 🟢 Wireshark 로 네트워크 트래픽 캡처 및 분석               | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956'>실습 시작</a>           |
+|       06 | 🎯 🟢 암호화된 웹 트래픽 필터링                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-filter-encrypted-web-traffic-548806'>도전 시작</a>                                 |
+|       07 | 📖 🟢 Wireshark 표시 필터로 네트워크 트래픽 분석              | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-network-traffic-with-wireshark-display-filters-415944'>실습 시작</a>       |
+|       08 | 🎯 🔵 노출된 로그인 자격 증명 찾기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-find-exposed-login-credentials-548820'>도전 시작</a>                               |
+|       09 | 📖 🔵 Wireshark 캡처 필터 적용: 네트워크 트래픽 분석          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940'>실습 시작</a> |
+|       10 | 🎯 🔵 DNS 통신 필터링                                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-filter-dns-communications-548826'>도전 시작</a>                                    |
+|       11 | 📖 🔵 Wireshark 에서 색상 지정 규칙 생성 및 적용              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941'>실습 시작</a>               |
+|       12 | 🎯 🔵 HTTPS 트래픽 감지기 생성                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-create-https-traffic-detector-548831'>도전 시작</a>                                |
+|       13 | 📖 🔵 Wireshark 의 Follow TCP Stream 기능으로 TCP 트래픽 분석 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-415946'>실습 시작</a> |
+|       14 | 🎯 🔵 웹 트래픽 증거 추출                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-extract-web-traffic-evidence-548842'>도전 시작</a>                                 |
+|       15 | 📖 🔵 Wireshark 에서 패킷 내보내기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-export-packets-from-wireshark-415945'>실습 시작</a>                                |
+|       16 | 🎯 🔵 의심스러운 네트워크 증거 내보내기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-export-suspicious-network-evidence-548847'>도전 시작</a>                           |
+|       17 | 📖 🔵 Wireshark 로 IPv6 트래픽 분석                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-ipv6-traffic-with-wireshark-415950'>실습 시작</a>                          |
+|       18 | 🎯 🔵 IPv6 트래픽 패턴 추적                                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-track-ipv6-traffic-patterns-548851'>도전 시작</a>                                  |
+|       19 | 📖 🔵 Tshark 를 활용한 네트워크 트래픽 분석                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942'>실습 시작</a>                      |
+|       20 | 🎯 🔵 의심스러운 DNS 쿼리 탐지                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-uncover-suspicious-dns-queries-548854'>도전 시작</a>                               |
+
 ## 환경
 
 LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다.
@@ -23,34 +48,9 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 - 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인.
 - 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성.
 - 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스.
-- ChatGPT 를 기반으로 구축된 AI 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
+- 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 제공하는 대화형 학습 경험.
 
 자세히 알아보기 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## 연습
-
-|   인덱스 | 이름                                                       | 난이도   | 연습                                                                                                                                                |
-|----------|------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Wireshark 로 네트워크 트래픽 설치, 구성 및 분석         | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947'>실습 시작</a> |
-|       02 | 🎯 Wireshark 설치 확인                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-verify-wireshark-installation-548783'>도전 시작</a>                                |
-|       03 | 📖 Wireshark 인터페이스 탐색 및 사용자 정의                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-explore-and-customize-wireshark-interface-415949'>실습 시작</a>                    |
-|       04 | 🎯 Wireshark 열 표시 사용자 정의                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-customize-wireshark-column-display-548785'>도전 시작</a>                           |
-|       05 | 📖 Wireshark 로 네트워크 트래픽 캡처 및 분석               | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956'>실습 시작</a>           |
-|       06 | 🎯 암호화된 웹 트래픽 필터링                               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-filter-encrypted-web-traffic-548806'>도전 시작</a>                                 |
-|       07 | 📖 Wireshark 표시 필터로 네트워크 트래픽 분석              | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-network-traffic-with-wireshark-display-filters-415944'>실습 시작</a>       |
-|       08 | 🎯 노출된 로그인 자격 증명 찾기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-find-exposed-login-credentials-548820'>도전 시작</a>                               |
-|       09 | 📖 Wireshark 캡처 필터 적용: 네트워크 트래픽 분석          | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940'>실습 시작</a> |
-|       10 | 🎯 DNS 통신 필터링                                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-filter-dns-communications-548826'>도전 시작</a>                                    |
-|       11 | 📖 Wireshark 에서 색상 지정 규칙 생성 및 적용              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941'>실습 시작</a>               |
-|       12 | 🎯 HTTPS 트래픽 감지기 생성                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-create-https-traffic-detector-548831'>도전 시작</a>                                |
-|       13 | 📖 Wireshark 의 Follow TCP Stream 기능으로 TCP 트래픽 분석 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-415946'>실습 시작</a> |
-|       14 | 🎯 웹 트래픽 증거 추출                                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-extract-web-traffic-evidence-548842'>도전 시작</a>                                 |
-|       15 | 📖 Wireshark 에서 패킷 내보내기                            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-export-packets-from-wireshark-415945'>실습 시작</a>                                |
-|       16 | 🎯 의심스러운 네트워크 증거 내보내기                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-export-suspicious-network-evidence-548847'>도전 시작</a>                           |
-|       17 | 📖 Wireshark 로 IPv6 트래픽 분석                           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-analyze-ipv6-traffic-with-wireshark-415950'>실습 시작</a>                          |
-|       18 | 🎯 IPv6 트래픽 패턴 추적                                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-track-ipv6-traffic-patterns-548851'>도전 시작</a>                                  |
-|       19 | 📖 Tshark 를 활용한 네트워크 트래픽 분석                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942'>실습 시작</a>                      |
-|       20 | 🎯 의심스러운 DNS 쿼리 탐지                                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-uncover-suspicious-dns-queries-548854'>도전 시작</a>                               |
 
 ## 더 보기
 
