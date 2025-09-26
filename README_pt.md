@@ -1,14 +1,14 @@
-# Início Rápido com Wireshark
+# Wireshark para Iniciantes
 
 ## Idiomas
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Início Rápido com Wireshark](https://cover-creator.labex.io/quick-start-with-wireshark.png?lang=pt)](https://labex.io/pt/courses/quick-start-with-wireshark)
+[![Wireshark para Iniciantes](https://cover-creator.labex.io/wireshark-for-beginners.png?lang=pt)](https://labex.io/pt/courses/wireshark-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/quick-start-with-wireshark)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/pt/courses/wireshark-for-beginners)
 
-Neste curso, você aprenderá a usar o Wireshark para capturar e analisar o tráfego de rede. Você aprenderá a instalar o Wireshark, capturar pacotes e analisá-los. Você também aprenderá a usar o Wireshark para solucionar problemas de rede, analisar o tráfego de rede e proteger sua rede.
+Neste curso, você aprenderá a usar o Wireshark para capturar e analisar tráfego de rede. Você aprenderá a instalar o Wireshark, capturar pacotes e analisá-los. Você também aprenderá a usar o Wireshark para solucionar problemas de rede, analisar tráfego de rede e proteger sua rede.
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-whitesmoke?style=for-the-badge&logo=cybersecurity)
 
@@ -17,26 +17,26 @@ Neste curso, você aprenderá a usar o Wireshark para capturar e analisar o trá
 
 |   Índice | Nome                                                        | Dificuldade   | Prática                                                                                                                                               |
 |----------|-------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Instalar, Configurar e Analisar Tráfego de Rede co... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947'>Iniciar Lab</a> |
-|       02 | 🎯 🟢 Verificar a Instalação do Wireshark                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-verify-wireshark-installation-548783'>Iniciar Desafio</a>                            |
-|       03 | 📖 🟢 Explore e Personalize a Interface do Wireshark        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-explore-and-customize-wireshark-interface-415949'>Iniciar Lab</a>                    |
-|       04 | 🎯 🟢 Personalizar a Exibição de Colunas do Wireshark       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-customize-wireshark-column-display-548785'>Iniciar Desafio</a>                       |
-|       05 | 📖 🟢 Capturar e Analisar Tráfego de Rede com Wireshark     | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956'>Iniciar Lab</a>           |
-|       06 | 🎯 🟢 Filtrar Tráfego Web Criptografado                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-filter-encrypted-web-traffic-548806'>Iniciar Desafio</a>                             |
-|       07 | 📖 🟢 Analisar Tráfego de Rede com Filtros de Exibição d... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-network-traffic-with-wireshark-display-filters-415944'>Iniciar Lab</a>       |
-|       08 | 🎯 🔵 Encontre Credenciais de Login Expostas                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-find-exposed-login-credentials-548820'>Iniciar Desafio</a>                           |
-|       09 | 📖 🔵 Aplicar Filtros de Captura do Wireshark para Análi... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940'>Iniciar Lab</a> |
-|       10 | 🎯 🔵 Filtrar Comunicações DNS                              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-filter-dns-communications-548826'>Iniciar Desafio</a>                                |
-|       11 | 📖 🔵 Criar e Aplicar Regras de Colorização no Wireshark    | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941'>Iniciar Lab</a>               |
-|       12 | 🎯 🔵 Criar Detector de Tráfego HTTPS                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-create-https-traffic-detector-548831'>Iniciar Desafio</a>                            |
-|       13 | 📖 🔵 Analisar Tráfego TCP com o Recurso Follow TCP Stre... | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-415946'>Iniciar Lab</a> |
-|       14 | 🎯 🔵 Extrair Evidências de Tráfego Web                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-extract-web-traffic-evidence-548842'>Iniciar Desafio</a>                             |
-|       15 | 📖 🔵 Exportar Pacotes do Wireshark                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-export-packets-from-wireshark-415945'>Iniciar Lab</a>                                |
-|       16 | 🎯 🔵 Exportar Evidências de Rede Suspeitas                 | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-export-suspicious-network-evidence-548847'>Iniciar Desafio</a>                       |
-|       17 | 📖 🔵 Analisar Tráfego IPv6 com Wireshark                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-ipv6-traffic-with-wireshark-415950'>Iniciar Lab</a>                          |
-|       18 | 🎯 🔵 Rastrear Padrões de Tráfego IPv6                      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-track-ipv6-traffic-patterns-548851'>Iniciar Desafio</a>                              |
-|       19 | 📖 🔵 Use Tshark para Análise de Tráfego de Rede            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942'>Iniciar Lab</a>                      |
-|       20 | 🎯 🔵 Descobrir Consultas DNS Suspeitas                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-uncover-suspicious-dns-queries-548854'>Iniciar Desafio</a>                           |
+|       01 | 📖 🆓 Instalar, Configurar e Analisar Tráfego de Rede co... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-install-configure-and-analyze-network-traffic-with-wireshark-415947'>Iniciar Lab</a> |
+|       02 | 🎯 🆓 Verificar a Instalação do Wireshark                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-verify-wireshark-installation-548783'>Iniciar Desafio</a>                            |
+|       03 | 📖 🆓 Explore e Personalize a Interface do Wireshark        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-explore-and-customize-wireshark-interface-415949'>Iniciar Lab</a>                    |
+|       04 | 🎯 🆓 Personalizar a Exibição de Colunas do Wireshark       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-customize-wireshark-column-display-548785'>Iniciar Desafio</a>                       |
+|       05 | 📖 🆓 Capturar e Analisar Tráfego de Rede com Wireshark     | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-capture-and-analyze-network-traffic-with-wireshark-415956'>Iniciar Lab</a>           |
+|       06 | 🎯 🆓 Filtrar Tráfego Web Criptografado                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-filter-encrypted-web-traffic-548806'>Iniciar Desafio</a>                             |
+|       07 | 📖 🆓 Analisar Tráfego de Rede com Filtros de Exibição d... | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-network-traffic-with-wireshark-display-filters-415944'>Iniciar Lab</a>       |
+|       08 | 🎯  Encontre Credenciais de Login Expostas                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-find-exposed-login-credentials-548820'>Iniciar Desafio</a>                           |
+|       09 | 📖  Aplicar Filtros de Captura do Wireshark para Análi...   | Intermediário | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-apply-wireshark-capture-filters-for-network-traffic-analysis-415940'>Iniciar Lab</a> |
+|       10 | 🎯  Filtrar Comunicações DNS                                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-filter-dns-communications-548826'>Iniciar Desafio</a>                                |
+|       11 | 📖  Criar e Aplicar Regras de Colorização no Wireshark      | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-create-and-apply-colorizing-rules-in-wireshark-415941'>Iniciar Lab</a>               |
+|       12 | 🎯  Criar Detector de Tráfego HTTPS                         | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-create-https-traffic-detector-548831'>Iniciar Desafio</a>                            |
+|       13 | 📖  Analisar Tráfego TCP com o Recurso Follow TCP Stre...   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-tcp-traffic-with-wireshark-follow-tcp-stream-feature-415946'>Iniciar Lab</a> |
+|       14 | 🎯  Extrair Evidências de Tráfego Web                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-extract-web-traffic-evidence-548842'>Iniciar Desafio</a>                             |
+|       15 | 📖  Exportar Pacotes do Wireshark                           | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-export-packets-from-wireshark-415945'>Iniciar Lab</a>                                |
+|       16 | 🎯  Exportar Evidências de Rede Suspeitas                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-export-suspicious-network-evidence-548847'>Iniciar Desafio</a>                       |
+|       17 | 📖  Analisar Tráfego IPv6 com Wireshark                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-analyze-ipv6-traffic-with-wireshark-415950'>Iniciar Lab</a>                          |
+|       18 | 🎯  Rastrear Padrões de Tráfego IPv6                        | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-track-ipv6-traffic-patterns-548851'>Iniciar Desafio</a>                              |
+|       19 | 📖  Use Tshark para Análise de Tráfego de Rede              | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-use-tshark-for-network-traffic-analysis-415942'>Iniciar Lab</a>                      |
+|       20 | 🎯  Descobrir Consultas DNS Suspeitas                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-uncover-suspicious-dns-queries-548854'>Iniciar Desafio</a>                           |
 
 ## Ambiente
 
